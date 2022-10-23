@@ -8,6 +8,7 @@ export default function Page() {
       <div>
         Go <Link href="/">back!</Link>
       </div>
+      <div>Test</div>
     </div>
   );
 }
