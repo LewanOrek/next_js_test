@@ -23,8 +23,17 @@ We take reasonable measures to protect your information from unauthorized access
 
 ### 5. Your Rights
 
-You have the right to access and update your profile information through your account settings. You may also request the deletion of your account by opening an issue on our [GitHub repository](https://github.com/Hostek/math-contest/issues).
+You have the right to access and update your profile information through your account settings. You may also request the deletion of your account. For instructions, please see the "Contact Us" section below.
 
-### 6. Contact Us
+### 6. Private & Sensitive Inquiries
 
-If you have any questions about this Privacy Policy, please open an issue on our [GitHub repository](https://github.com/Hostek/math-contest/issues).
+For sensitive matters that should not be public, such as reporting a security vulnerability or making a personal data request under privacy laws (e.g., GDPR, CCPA), please contact us directly via email.
+
+<!-- @TODO -->
+**Please send sensitive inquiries to: `privacy@contestplatform.com`**
+
+Do not post sensitive information on public issue trackers.
+
+### 7. Contact Us
+
+For general questions about this Privacy Policy, bug reports, or feature requests, the preferred method is to open an issue on our [GitHub repository](https://github.com/Hostek/math-contest/issues). For private matters, please use the email address listed in the section above.
